@@ -31,7 +31,7 @@ printf_null(const char *format, ...)
 #define TEST_PORT 8443
 
 #define XQC_PACKET_TMP_BUF_LEN 1500
-#define MAX_BUF_SIZE (100*1024*1024)
+#define MAX_BUF_SIZE (1000*1024*1024)
 
 #define XQC_ALPN_TRANSPORT "transport"
 
