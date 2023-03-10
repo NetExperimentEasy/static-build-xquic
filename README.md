@@ -15,4 +15,5 @@ cmake -DGCOV=off -DCMAKE_BUILD_TYPE=Debug -DXQC_ENABLE_TESTING=0 -DXQC_SUPPORT_S
 ```
 
 - 当前版本: xquic 1.4
+- src中的测试用例代码均修改了MAX_BUF_SIZE
 
